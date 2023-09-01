@@ -1,0 +1,17 @@
+Package: spaceratio
+Title: Charting Density Potentials in the Built Environment Using Space Ratio and the Space Ratio Chart
+Version: 2.0.0
+Authors@R: 
+    person(given = "Liam Thomas", family = "Bolton", role = c("aut", "cre"), email = "liamthomasbolton@gmail.com")
+Description: spaceratio is a package for charting density potentials in the built environment using Space Ratio, or the ratio of the existing density to the permissible density, and the Space Ratio Chart.
+Depends:
+    R (>= 3.1.0),
+    dplyr,
+    reshape2,
+    ggplot2,
+    ggthemes
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2

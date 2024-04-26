@@ -1,9 +1,9 @@
 # spaceratio
 
 ### Overview
-spaceratio is an R package for charting density potentials in the built environments using <a href="https://www.liamthomasbolton.com/portfolio/SpaceRatio/">Space Ratio</a>, or the ratio of the existing density to the permissible density, and the Space Ratio Chart (Bolton, 2021). 
+spaceratio is an R package for charting density potentials in the built environment using <a href="https://www.liamthomasbolton.com/portfolio/SpaceRatio/">Space Ratio</a>, or the ratio of the existing density to the permissible density, and the Space Ratio Chart (Bolton, 2021). 
 
-For more information about Space Ratio, read this <a href="https://discovery.ucl.ac.uk/id/eprint/10156128/">journal article</a> published in <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>.
+For more information about Space Ratio, you can read this <a href="https://discovery.ucl.ac.uk/id/eprint/10156128/">journal article</a> published in <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>.
 
 ### Installation
 spaceratio can be installed from Github.

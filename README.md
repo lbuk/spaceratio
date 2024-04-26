@@ -16,15 +16,13 @@ install_github("lbuk/spaceratio")
 ```
 library(spaceratio)
 
-## Example Scenario
-
 # Density variables
 d_var = c("FAR", "H", "DPH", "GSI")
 
 # Space Ratios
 s_val = c(0.75, 0.8, 0.95, 0.91)
 
-# Space Ratio Chart
+# Visualise the Space Ratio Chart
 spaceratio(density_var = d_var, space_ratio = s_val, output = 'plot')
 ```
 ![](https://github.com/lbuk/spaceratio/blob/master/img/spaceratio_chart.png)

@@ -29,4 +29,4 @@ spaceratio(density_var = d_var, space_ratio = s_val, output = 'plot')
 ![](https://github.com/lbuk/spaceratio/blob/master/img/spaceratio_chart.png)
 
 ### References
-Bolton, L.T. (2021). 'Space ratio: A measure of density potentials in the built environment', _Sustainable Cities and Society_, 75, p.103356.
+Bolton, L.T. (2021). 'Space ratio: a measure of density potentials in the built environment', _Sustainable Cities and Society_, 75, p.103356. doi: 10.1016/j.scs.2021.103356.

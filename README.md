@@ -6,6 +6,7 @@ spaceratio is an R package for analysing the density potentials of buildings and
 For more information about Space Ratio, read this <a href="https://discovery.ucl.ac.uk/id/eprint/10156128/">journal article</a> published in <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>.
 
 ### Installation
+spaceratio can be installed from Github
 ```
 library(devtools)
 install_github("lbuk/spaceratio")

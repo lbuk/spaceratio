@@ -31,10 +31,10 @@ Function for plotting Space Ratio Charts or deriving a data frame of summary sta
 }
 \examples{
 # Density variables
-d_var = c("FAR", "DPH", "H", "GSI")
+d_var <- c("FAR", "DPH", "H", "GSI")
 
 # Space Ratio values
-s_val = c(0.73, 1, 0.81, 0.91)
+s_val <- c(0.73, 1, 0.81, 0.91)
 
 # Space Ratio Chart
 spaceratio(density_var = d_var, space_ratio = s_val, output = 'plot')
